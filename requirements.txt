@@ -1,0 +1,5 @@
+selenium
+pushbullet.py
+pushpad
+python-magic
+requests
